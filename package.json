@@ -1,0 +1,16 @@
+{
+  "name": "funnel-app",
+  "displayName": "Воронки продаж",
+  "version": "1.0.0",
+  "description": "Сравнение воронок продаж",
+  "main": "index.js",
+  "scripts": {
+    "build": "cordova build android"
+  },
+  "dependencies": {
+    "cordova-android": "^12.0.0"
+  },
+  "cordova": {
+    "platforms": ["android"]
+  }
+}
